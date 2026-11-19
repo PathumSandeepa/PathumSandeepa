@@ -36,9 +36,9 @@ Curious to see what I've been building? Explore my stack & live cybernetic guard
 <!-- CYBER-CREATURE:START -->
 <p align="center">
   <a href="https://github.com/PathumSandeepa/dynamic-readme-creature">
-    <img src="./creature.svg" width="760" alt="Cyber-Tulkun - Stage 4 APEX" />
+    <img src="./creature.svg" width="760" alt="Cyber-Tulkun - Stage 3 ARMORED" />
   </a>
 </p>
 
-<p align="center"><sub>Live Cyber-Tulkun for @PathumSandeepa — Stage 4: APEX · 1,680 commits · View: SIDE</sub></p>
+<p align="center"><sub>Live <code>dynamic-readme-creature</code> for <strong>@PathumSandeepa</strong> — <strong>Stage 3: ARMORED Cyber-Tulkun</strong> · <code>584 commits</code> · View: <code>side</code> · Top Stack: <code>TypeScript</code> <code>JavaScript</code> <code>PHP</code> · Synced 2026-11-19</sub></p>
 <!-- CYBER-CREATURE:END -->

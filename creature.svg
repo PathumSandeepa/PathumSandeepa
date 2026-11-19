@@ -637,7 +637,7 @@
       <rect x="20" y="406" width="880" height="46" rx="8" fill="url(#cc-hud-bg)" stroke="#30363D" stroke-width="1.2" />
       <path d="M 24 406 L 20 410 L 20 448 L 24 452 L 28 452 L 28 406 Z" fill="#FF6B00" />
       <circle class="cc-hud-blink" cx="44" cy="422" r="4.2" fill="#00E676" />
-      <text id="cc-hud-label" x="58" y="426" fill="#E6EDF3" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11.5" font-weight="700" letter-spacing="0.6">STAGE 4: APEX CYBER-TULKUN // COMMITS: 1,680</text>
+      <text id="cc-hud-label" x="58" y="426" fill="#E6EDF3" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11.5" font-weight="700" letter-spacing="0.6">STAGE 3: ARMORED CYBER-TULKUN // COMMITS: 584</text>
       <text x="884" y="426" fill="#8B949E" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10.5" font-weight="600" text-anchor="end">UNIT-01 // CETACEA-MK4 // SIDE // 1.0X</text>
       
         <rect x="62" y="432.5" width="7.5" height="7.5" rx="1.5" fill="#3178C6" />
@@ -649,6 +649,6 @@
         <rect x="310" y="432.5" width="7.5" height="7.5" rx="1.5" fill="#3572A5" />
         <text x="322" y="440" fill="#8B949E" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" font-weight="600">PYTHON</text>
       
-      <text id="cc-stage-pip-1" x="576" y="440" fill="#C9D1D9" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" font-weight="500">1.PRTO</text><text id="cc-stage-pip-2" x="638" y="440" fill="#C9D1D9" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" font-weight="500">2.RCON</text><text id="cc-stage-pip-3" x="700" y="440" fill="#C9D1D9" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" font-weight="500">3.ARMR</text><text id="cc-stage-pip-4" x="762" y="440" fill="#73F1B4" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" font-weight="700">4.APEX</text><text id="cc-stage-pip-5" x="824" y="440" fill="#484F58" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" font-weight="500">5.ASCD</text>
+      <text id="cc-stage-pip-1" x="576" y="440" fill="#C9D1D9" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" font-weight="500">1.PRTO</text><text id="cc-stage-pip-2" x="638" y="440" fill="#C9D1D9" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" font-weight="500">2.RCON</text><text id="cc-stage-pip-3" x="700" y="440" fill="#00E676" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" font-weight="700">3.ARMR</text><text id="cc-stage-pip-4" x="762" y="440" fill="#484F58" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" font-weight="500">4.APEX</text><text id="cc-stage-pip-5" x="824" y="440" fill="#484F58" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" font-weight="500">5.ASCD</text>
     </g>
 </svg>
