@@ -1,10 +1,10 @@
-## Pathum Sandeepa | Developer Profile
+## Pathum Sandeepa | Creative Builder
 
 **FULL-STACK PLATFORMS | CREATIVE CODING | SCALABLE SYSTEMS | UI/UX DESIGN**
 
-🧑‍💻 Aspiring Developer | 🎓 Computer Science Student | 🌐 Sharing my coding adventures.
+I'm @PathumSandeepa, a software engineer and creative builder sitting at the intersection of systems engineering and visual craft. I love building open-source developer tools, generative SVG engines, and scalable web applications.
 
-Curious to see what I've been up to? Check out my featured projects & live cybernetic guardian below 👇
+Curious to see what I've been building? Explore my stack & live cybernetic guardian below.
 
 <p align="left">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
@@ -17,34 +17,28 @@ Curious to see what I've been up to? Check out my featured projects & live cyber
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white" alt="pnpm" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
 <p align="left">
   <a href="https://github.com/PathumSandeepa"><img src="https://img.shields.io/badge/GITHUB-%40PathumSandeepa-181717?style=for-the-badge&labelColor=1F242D&logo=github&logoColor=white" alt="GITHUB" /></a>
-  <a href="https://pathumsandeepa.com/"><img src="https://img.shields.io/badge/WEBSITE-PATHUMSANDEEPA.COM-FF6B00?style=for-the-badge&labelColor=1F242D&logo=googlechrome&logoColor=white" alt="WEBSITE" /></a>
-  <a href="https://x.com/PathumSandeepa6"><img src="https://img.shields.io/badge/X-%40PathumSandeepa6-000000?style=for-the-badge&labelColor=1F242D&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://pathumsandeepa.github.io/dynamic-readme-creature/"><img src="https://img.shields.io/badge/STUDIO-CREATURE%20GENERATOR-27272A?style=for-the-badge&labelColor=1F242D&logo=vercel&logoColor=white" alt="STUDIO" /></a>
 </p>
 
 <!-- CYBER-CREATURE:START -->
 <p align="center">
   <a href="https://github.com/PathumSandeepa/dynamic-readme-creature">
-    <img src="./creature.svg" width="760" alt="Cyber-Tulkun - Stage 3 ARMORED" />
+    <img src="./creature.svg" width="760" alt="Cyber-Tulkun - Stage 4 APEX" />
   </a>
 </p>
 
-<p align="center"><sub>Live <code>dynamic-readme-creature</code> for <strong>@PathumSandeepa</strong> — <strong>Stage 3: ARMORED Cyber-Tulkun</strong> · <code>577 commits</code> · View: <code>side</code></sub></p>
+<p align="center"><sub>Live Cyber-Tulkun for @PathumSandeepa — Stage 4: APEX · 1,680 commits · View: SIDE</sub></p>
 <!-- CYBER-CREATURE:END -->
-
-### Featured Projects
-
-| Project | Description | Stack |
-| --- | --- | --- |
-| **[DarkAndLight-Calculator.github.io](https://github.com/PathumSandeepa/DarkAndLight-Calculator.github.io)** | Here is a calculator that I created using HTML, CSS, and Javascript. By clicking on the moon button above, the user can switch between a dark theme and a Light theme. | `JavaScript` |
-| **[MERN-Book-Store](https://github.com/PathumSandeepa/MERN-Book-Store)** | MERN stack's basic CRUD operations | `JavaScript` |
-| **[Three-JS-3D-Earth](https://github.com/PathumSandeepa/Three-JS-3D-Earth)** | 🌍Interactive 3D model of Earth using Three.js | `JavaScript` |
-| **[microservice-ecommerce](https://github.com/PathumSandeepa/microservice-ecommerce)** | A scalable, event-driven e-commerce application built with Next.js 16, Microservices, and Kafka. Designed to demonstrate modern full-stack architecture using a Monorepo strategy. | `TypeScript` |
