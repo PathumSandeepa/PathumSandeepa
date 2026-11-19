@@ -1,16 +1,50 @@
-## Hi there 👋
+## Pathum Sandeepa | Developer Profile
 
-<!--
-**PathumSandeepa/PathumSandeepa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**FULL-STACK PLATFORMS | CREATIVE CODING | SCALABLE SYSTEMS | UI/UX DESIGN**
 
-Here are some ideas to get you started:
+🧑‍💻 Aspiring Developer | 🎓 Computer Science Student | 🌐 Sharing my coding adventures.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Curious to see what I've been up to? Check out my featured projects & live cybernetic guardian below 👇
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+</p>
+
+<p align="left">
+  <a href="https://github.com/PathumSandeepa"><img src="https://img.shields.io/badge/GITHUB-%40PathumSandeepa-181717?style=for-the-badge&labelColor=1F242D&logo=github&logoColor=white" alt="GITHUB" /></a>
+  <a href="https://pathumsandeepa.com/"><img src="https://img.shields.io/badge/WEBSITE-PATHUMSANDEEPA.COM-FF6B00?style=for-the-badge&labelColor=1F242D&logo=googlechrome&logoColor=white" alt="WEBSITE" /></a>
+  <a href="https://x.com/PathumSandeepa6"><img src="https://img.shields.io/badge/X-%40PathumSandeepa6-000000?style=for-the-badge&labelColor=1F242D&logo=x&logoColor=white" alt="X" /></a>
+</p>
+
+<!-- CYBER-CREATURE:START -->
+<p align="center">
+  <a href="https://github.com/PathumSandeepa/dynamic-readme-creature">
+    <img src="./creature.svg" width="760" alt="Cyber-Tulkun - Stage 3 ARMORED" />
+  </a>
+</p>
+
+<p align="center"><sub>Live <code>dynamic-readme-creature</code> for <strong>@PathumSandeepa</strong> — <strong>Stage 3: ARMORED Cyber-Tulkun</strong> · <code>577 commits</code> · View: <code>side</code></sub></p>
+<!-- CYBER-CREATURE:END -->
+
+### Featured Projects
+
+| Project | Description | Stack |
+| --- | --- | --- |
+| **[DarkAndLight-Calculator.github.io](https://github.com/PathumSandeepa/DarkAndLight-Calculator.github.io)** | Here is a calculator that I created using HTML, CSS, and Javascript. By clicking on the moon button above, the user can switch between a dark theme and a Light theme. | `JavaScript` |
+| **[MERN-Book-Store](https://github.com/PathumSandeepa/MERN-Book-Store)** | MERN stack's basic CRUD operations | `JavaScript` |
+| **[Three-JS-3D-Earth](https://github.com/PathumSandeepa/Three-JS-3D-Earth)** | 🌍Interactive 3D model of Earth using Three.js | `JavaScript` |
+| **[microservice-ecommerce](https://github.com/PathumSandeepa/microservice-ecommerce)** | A scalable, event-driven e-commerce application built with Next.js 16, Microservices, and Kafka. Designed to demonstrate modern full-stack architecture using a Monorepo strategy. | `TypeScript` |
