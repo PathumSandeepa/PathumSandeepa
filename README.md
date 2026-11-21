@@ -43,9 +43,11 @@ Explore my tech stack and live cybernetic profile creature below.
 </p>
 
 <!-- CYBER-CREATURE:START -->
-<p align="left">
-  <a href="https://github.com/PathumSandeepa/PathumSandeepa">
-    <img src="./creature.webp" width="760" alt="Pixel Tulkun Stage 3 SUB-ADULT" />
+<p align="center">
+  <a href="https://github.com/PathumSandeepa/dynamic-readme-creature">
+    <img src="./creature.svg" width="760" alt="Cyber-Tulkun - Stage 3 ARMORED" />
   </a>
 </p>
+
+<p align="center"><sub>Live <code>dynamic-readme-creature</code> for <strong>@PathumSandeepa</strong> — <strong>Stage 3: ARMORED Cyber-Tulkun</strong> · <code>600 commits</code> · View: <code>side</code> · Top Stack: <code>TypeScript</code> <code>JavaScript</code> <code>PHP</code> · Synced 2026-11-21</sub></p>
 <!-- CYBER-CREATURE:END -->
