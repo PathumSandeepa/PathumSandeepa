@@ -41,7 +41,7 @@ const EMBEDDED_CONFIG = {
   "hudFontWeight": "bold",
   "hudFontColor": "#D8F3FF",
   "hudAlign": "left",
-  "commits": 604,
+  "commits": 607,
   "username": "PathumSandeepa",
   "languages": [
     {
@@ -82,8 +82,8 @@ const EMBEDDED_CONFIG = {
   ],
   "readme": {
     "templateId": "cyber-guardian",
-    "profileTextMode": "structured",
-    "advancedProfileMarkdown": "",
+    "profileTextMode": "advanced",
+    "advancedProfileMarkdown": "## Pathum Sandeepa | Full-Stack Developer\n\n**FULL-STACK DEVELOPMENT | SYSTEMS ARCHITECTURE | OPEN SOURCE | UI ENGINEERING**\n\n🧑‍💻 Aspiring Developer | 🎓 Computer Science Student | 🌐 Sharing my coding adventures.\n\nExplore my tech stack and live cybernetic profile creature below.",
     "headline": "Pathum Sandeepa | Full-Stack Developer",
     "subtitleTags": [
       "FULL-STACK DEVELOPMENT",
@@ -813,7 +813,11 @@ function renderFrameRgba(recoloredSprite, config, phase) {
   const fitScale = Math.min(maxFitW / recoloredSprite.width, maxFitH / recoloredSprite.height);
   const drawW = recoloredSprite.width * fitScale;
   const drawH = recoloredSprite.height * fitScale;
-  const centerX = LOGICAL_WIDTH * 0.5;
+  const opticalShiftX = config.creature === "jellyfish" ? drawW * 0.06 : drawW * 0.045;
+  const centerX = Math.min(
+    LOGICAL_WIDTH * 0.5 + opticalShiftX,
+    LOGICAL_WIDTH - drawW * 0.5 - 18
+  );
   const centerY = config.showHud ? Math.max(54, Math.min(96, (hudTopLogicalY - 6) * 0.49)) : 115;
 
   const ampScale = 0.55 + 0.45 * stageScale;
@@ -1099,7 +1103,6 @@ function updateReadmeFiles(config, username, stage, rank, commits, visibleLangs)
 
   let raw = fs.readFileSync(readmePath, "utf8");
   const rm = config.readme || {};
-  const align = rm.align === "left" ? "left" : "center";
   const width = Number(rm.imageWidth) || 760;
   const imgSrc = rm.useOutputBranchUrl
     ? `https://raw.githubusercontent.com/${username}/${username}/output/creature.webp`
@@ -1113,7 +1116,7 @@ function updateReadmeFiles(config, username, stage, rank, commits, visibleLangs)
   if (sIdx !== -1 && eIdx !== -1 && eIdx > sIdx) {
     const block = [
       startMarker,
-      `<p align="${align}">`,
+      `<p align="center">`,
       `  <a href="https://github.com/${username}/${username}">`,
       `    <img src="${imgSrc}" width="${width}" alt="${CREATURE_DISPLAY_NAME} Stage ${stage} ${rank}" />`,
       `  </a>`,

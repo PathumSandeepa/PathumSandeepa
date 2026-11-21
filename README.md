@@ -44,7 +44,7 @@ Explore my tech stack and live cybernetic profile creature below.
 </p>
 
 <!-- CYBER-CREATURE:START -->
-<p align="left">
+<p align="center">
   <a href="https://github.com/PathumSandeepa/PathumSandeepa">
     <img src="./creature.webp" width="760" alt="Pixel Tulkun Stage 3 SUB-ADULT" />
   </a>

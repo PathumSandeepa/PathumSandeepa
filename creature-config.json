@@ -21,7 +21,7 @@
   "hudFontWeight": "bold",
   "hudFontColor": "#D8F3FF",
   "hudAlign": "left",
-  "commits": 604,
+  "commits": 607,
   "username": "PathumSandeepa",
   "languages": [
     {
@@ -62,8 +62,8 @@
   ],
   "readme": {
     "templateId": "cyber-guardian",
-    "profileTextMode": "structured",
-    "advancedProfileMarkdown": "",
+    "profileTextMode": "advanced",
+    "advancedProfileMarkdown": "## Pathum Sandeepa | Full-Stack Developer\n\n**FULL-STACK DEVELOPMENT | SYSTEMS ARCHITECTURE | OPEN SOURCE | UI ENGINEERING**\n\n🧑‍💻 Aspiring Developer | 🎓 Computer Science Student | 🌐 Sharing my coding adventures.\n\nExplore my tech stack and live cybernetic profile creature below.",
     "headline": "Pathum Sandeepa | Full-Stack Developer",
     "subtitleTags": [
       "FULL-STACK DEVELOPMENT",
