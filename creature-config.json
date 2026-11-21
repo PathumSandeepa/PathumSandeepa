@@ -21,43 +21,36 @@
   "hudFontWeight": "bold",
   "hudFontColor": "#D8F3FF",
   "hudAlign": "left",
-  "commits": 607,
+  "commits": 608,
   "username": "PathumSandeepa",
   "languages": [
     {
       "name": "TypeScript",
-      "color": "#3178C6",
-      "share": 37
+      "color": "#3178C6"
     },
     {
       "name": "JavaScript",
-      "color": "#F1E05A",
-      "share": 29
+      "color": "#F1E05A"
     },
     {
       "name": "HTML",
-      "color": "#E34C26",
-      "share": 16
+      "color": "#E34C26"
     },
     {
       "name": "Java",
-      "color": "#B07219",
-      "share": 4
+      "color": "#B07219"
     },
     {
       "name": "Jupyter Notebook",
-      "color": "#DA5B0B",
-      "share": 3
+      "color": "#DA5B0B"
     },
     {
       "name": "PHP",
-      "color": "#4F5D95",
-      "share": 2
+      "color": "#4F5D95"
     },
     {
       "name": "Blade",
-      "color": "#8B949E",
-      "share": 2
+      "color": "#8B949E"
     }
   ],
   "readme": {
