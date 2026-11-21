@@ -4,39 +4,46 @@ on:
   schedule:
     - cron: "30 18 * * *"
   workflow_dispatch:
-  push:
-    branches: [main]
 
 permissions:
   contents: write
+
+concurrency:
+  group: evolve-creature
+  cancel-in-progress: true
 
 jobs:
   evolve:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
 
       - name: Setup Node.js
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v7
         with:
           node-version: "22"
 
-      - name: Update Creature SVG & Profile README Telemetry
+      - name: Install Sharp WebP encoder
+        run: npm install --no-save --prefix /tmp/creature-deps sharp
+
+      - name: Fetch Live Telemetry & Regenerate Animated creature.webp
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PROFILE_PAT: ${{ secrets.PROFILE_PAT }}
           GITHUB_USERNAME: ${{ github.repository_owner }}
           CREATURE_WINDOW: "annual"
           CREATURE_VIEW: "side"
-        run: node scripts/evolve-creature.mjs
+        run: NODE_PATH=/tmp/creature-deps/node_modules node scripts/evolve-creature.mjs
 
-      - name: Commit updated creature.svg and README.md
+      - name: Commit updated creature.webp, creature-config.json & README.md
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add creature.svg README.md 2>/dev/null || true
+          git add creature.webp README.md creature-config.json 2>/dev/null || true
           if ! git diff --cached --quiet; then
             git commit -m "chore: 12AM daily profile & creature telemetry update"
+            git pull --rebase origin "${{ github.ref_name }}"
             git push
           else
             echo "No profile telemetry changes detected."
